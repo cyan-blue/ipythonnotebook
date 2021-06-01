@@ -105,7 +105,7 @@ system-service==0.1.6
 tornado==4.2.1
 ubuntuone-client-data==14.4
 unity-lens-photos==1.0
-urllib3==1.11
+urllib3==1.26.5
 vboxapi==1.0
 virtualenv==13.1.2
 wheel==0.26.0
