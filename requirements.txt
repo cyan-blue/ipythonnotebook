@@ -48,7 +48,7 @@ funcsigs==0.4
 gevent==1.0.1
 greenlet==0.4.3
 gunicorn==0.14.6
-html5lib==0.9999999
+html5lib==0.99999999
 httplib2==0.9
 idna==2.0
 ipaddress==1.0.14
