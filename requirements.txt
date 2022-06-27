@@ -94,7 +94,7 @@ pyxdg==0.25
 pyzmq==14.4.1
 qiniu==7.0.5
 raven==2.0.6
-reportlab==2.5
+reportlab==3.5.55
 requests==2.8.1
 service-identity==14.0.0
 simplegeneric==0.8.1
